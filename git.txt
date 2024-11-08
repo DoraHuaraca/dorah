@@ -1,0 +1,8 @@
+git config -- global user.email ""
+git config -- global user.name ""
+mkdir repositorios
+cd repositorios
+git clone https://github.com/cruizg/clase-git.git
+dir
+cd clase-git
+code .
